@@ -1,0 +1,35 @@
+{
+  "name": "Afrizal Fikri",
+  "nim": "L200230195",
+  "prodi": "Teknik Informatika",
+  "campus": "Universitas Muhammadiyah Surakata",
+  "email": "L200230195@student.ums.ac.id",
+  "location": "Surakarta, Indonesia",
+  "bio": "Mahasiswa TI yang senang ngoding sambil rebahan. Lagi fokus belajar backend dan full-stack development.",
+  "profilePic": "fotoku.jpg",
+  "socials": {
+    "github": "https://github.com/afrizalfikri22",
+    "linkedin": "https://id.linkedin.com/in/afrizal-fikri-172bb8360"
+  },
+  "skills": [
+    { "name": "React JS", "level": "Intermediate", "color": "bg-blue-500" },
+    { "name": "Tailwind CSS", "level": "Advanced", "color": "bg-cyan-400" },
+    { "name": "JavaScript", "level": "Intermediate", "color": "bg-yellow-400" }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Backend Developer",
+      "company": "PT Solusi Kode Indonesia",
+      "period": "2024 - Sekarang",
+      "description": "Mengembangkan dan memelihara API backend, menangani database, serta optimasi performa server."
+    },
+    {
+      "id": 2,
+      "role": "Freelance Web Developer",
+      "company": "Fiverr/Upwork",
+      "period": "2023 - Sekarang",
+      "description": "Mengembangkan website custom untuk klien, mulai dari requirement gathering hingga deployment dan maintenance."
+    }
+  ]
+}
